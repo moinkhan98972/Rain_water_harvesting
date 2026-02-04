@@ -1,0 +1,49 @@
+.box{
+    background-color: hsl(0, 0%, 26%);
+    color: white;
+    text-align: center;
+    padding: 20;
+    margin-top: ;
+
+}
+.navbar a{
+    color: white;
+    
+} 
+.navbar a:hover{
+   color: blueviolet;
+
+}
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+#intro h2{
+    text-decoration: underline;
+    color: blue;
+}
+body{
+    background-color:thistle;
+}
+#Benefits h2{
+    text-decoration: underline;
+    color: blueviolet;
+}
+
+#images h2{
+    text-decoration: underline;
+
+}
+#Methods h2{
+    text-decoration: underline;
+}
+#intro{
+    text-align: center;
+    text-transform: uppercase;
+    color: black;
+}
+#image p{
+    text-decoration: underline ;
+}
+
